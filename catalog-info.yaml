@@ -4,7 +4,6 @@ metadata:
   name: phoenix_app
   annotations:
     github.com/project-slug: pdincau/phoenix_app
-    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
