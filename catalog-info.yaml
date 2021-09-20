@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: phoenix_app
+  description: sample phoenix_app
   annotations:
     github.com/project-slug: pdincau/phoenix_app
     backstage.io/techdocs-ref: dir:.
